@@ -17,3 +17,4 @@ function router (req, res) {
             res.end();
     };
 };
+console.log('Escuchando http en el puerto 3000');
